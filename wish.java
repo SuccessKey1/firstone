@@ -10,6 +10,5 @@ zxcvbnmsdfgh
 dfghvb
 xcvb
 df
-this is one and two combination
 }
 
